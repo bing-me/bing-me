@@ -28,6 +28,6 @@
 [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=radical)](https://github.com/cheehwatang/github-readme-daily-quotes)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=asdasd&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=bing-me&icon=5&color=5)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
