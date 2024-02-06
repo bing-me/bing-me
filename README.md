@@ -1,7 +1,7 @@
 <div align="center">
 
 ## 💫 About Me:
-🌱 I’m currently learning JavaScript.<br>💬 Ask me about meal prep.<br>⚡ Fun fact: I prefer listening to podcasts than music.
+🌱 I’m currently learning Java.<br>💬 Ask me about meal prep.<br>⚡ Fun fact: I prefer listening to podcasts than music.
 
 
 ## 🌐 Socials:
