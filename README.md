@@ -19,7 +19,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=bing-me&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## 📊 Leetcode Stats:
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=bing-me&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+<!--[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=bing-me&theme=dark)](https://github.com/KnlnKS/leetcode-stats)-->
+![Leetcode Stats](https://leetcard.jacoblin.cool/bing-me)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
